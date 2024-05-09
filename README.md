@@ -141,6 +141,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | --- | --- | --- |
 | [vim-popped](https://github.com/kennypete/vim-popped) | A plugin for Vim providing commands that use Vim’s builtin popup window functionality. | ✅ |
 | [vim9-focalpoint](https://github.com/ShayHill/vim9-focalpoint) | Shade unfocused windows. Give a bright statusline color for active windows. | ✅ |
+| [vim9-scratchterm](https://github.com/ShayHill/vim9-scratchterm) | Open terminals without losing focus. Close terminals with minimum disruption. | ✅ |
 
 ### Quickfix
 
