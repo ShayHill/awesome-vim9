@@ -140,6 +140,7 @@ To submit a new plugin read [CONTRIBUTING.md](./CONTRIBUTING.md) first.
 | Name | Description | Maintained |
 | --- | --- | --- |
 | [vim-popped](https://github.com/kennypete/vim-popped) | A plugin for Vim providing commands that use Vim’s builtin popup window functionality. | ✅ |
+| [vim9-scratchterm](https://github.com/ShayHill/vim9-scratchterm) | Open terminals without losing focus. Close terminals with minimum disruption. | ✅ |
 
 ### Quickfix
 
